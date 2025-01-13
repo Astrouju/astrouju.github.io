@@ -13,7 +13,7 @@
       <link>http://localhost:1313/posts/secondpage/</link>
       <pubDate>Mon, 13 Jan 2025 16:47:35 +0200</pubDate>
       <guid>http://localhost:1313/posts/secondpage/</guid>
-      <description>&lt;p&gt;MY BRAIN RIGHT NOW&#xA;&lt;img src=&#34;images/loading.png&#34; alt=&#34;Image alt&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;MY BRAIN RIGHT NOW&#xA;&lt;img src=&#34;..images/loading.png&#34; alt=&#34;Image alt&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Astrouju main</title>
