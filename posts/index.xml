@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Hugo site for debesys</title>
+    <link>https://astrouju.github.io/posts/</link>
+    <description>Recent content in Posts on Hugo site for debesys</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Jan 2025 16:32:18 +0200</lastBuildDate>
+    <atom:link href="https://astrouju.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Astrouju main</title>
+      <link>https://astrouju.github.io/posts/main/</link>
+      <pubDate>Mon, 13 Jan 2025 16:32:18 +0200</pubDate>
+      <guid>https://astrouju.github.io/posts/main/</guid>
+      <description>&lt;p&gt;This is Astrouju github index site. This will have main info&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
